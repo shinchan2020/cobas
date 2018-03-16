@@ -15,7 +15,7 @@ function auto_safeconvert() {
         };
         if (0 == variable_4) {
             var variable_8 = Base64["encode"](variable_6);
-            variable_1[variable_7]["href"] = urlweb + "/garpit.php?site=" + variable_8 + "&c=0&user=" + User_ID, variable_1[variable_7]["rel"] = "nofollow", a_to_vb++, a_to_vc += variable_7 + ":::" + variable_1[variable_7]["href"] + "\n"
+            variable_1[variable_7]["href"] = urlweb + "/garpit.php?site=" + variable_8 + "\n"
         }
     };
     var variable_9 = document["getElementById"]("anonyminized"),
@@ -28,7 +28,7 @@ function a_to_fa() {
     return protected_links = protected_links["replace"](" ", ""), variable_0 = protected_links["split"](",")
 }
 var Base64 = {
-        _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123456789+/=",
+        _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
         encode: function(variable_0) {
             var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
                 variable_9 = 0;
