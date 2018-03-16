@@ -28,7 +28,7 @@ function a_to_fa() {
     return protected_links = protected_links["replace"](" ", ""), variable_0 = protected_links["split"](",")
 }
 var Base64 = {
-        _keyStr: "TWFyeSBoYWQgYSBsaXR0bGUgbGFtYi4uLiBASktMTU5PUFpbXF1eX2BhamtsbW5ven1+/=",
+        _keyStr: "BRCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+A/=",
         encode: function(variable_0) {
             var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
                 variable_9 = 0;
