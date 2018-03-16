@@ -1,1 +1,71 @@
-ZnVuY3Rpb24gYXV0b19zYWZlbGluaygpIHsNCiAgICBhdXRvX3NhZmVjb252ZXJ0KCkNCn0NCg0KZnVuY3Rpb24gYXV0b19zYWZlY29udmVydCgpIHsNCiAgICB2YXIgdmFyaWFibGVfMCA9IHdpbmRvd1sibG9jYXRpb24iXVsiaG9zdG5hbWUiXTsNCiAgICAiIiA9PSBwcm90ZWN0ZWRfbGlua3MgfHwgcHJvdGVjdGVkX2xpbmtzWyJtYXRjaCJdKHZhcmlhYmxlXzApID8gIiIgPT0gcHJvdGVjdGVkX2xpbmtzICYmIChwcm90ZWN0ZWRfbGlua3MgPSB2YXJpYWJsZV8wKSA6IHByb3RlY3RlZF9saW5rcyArPSAiLCAiICsgdmFyaWFibGVfMDsNCiAgICB2YXIgdmFyaWFibGVfMSA9ICIiLA0KICAgICAgICB2YXJpYWJsZV8yID0gbmV3IEFycmF5LA0KICAgICAgICB2YXJpYWJsZV8zID0gMDsNCiAgICB2YXJpYWJsZV8xID0gZG9jdW1lbnRbImdldEVsZW1lbnRzQnlUYWdOYW1lIl0oImEiKSwgYV90b192YSA9IHZhcmlhYmxlXzFbImxlbmd0aCJdLCB2YXJpYWJsZV8yID0gYV90b19mYSgpLCB2YXJpYWJsZV8zID0gdmFyaWFibGVfMlsibGVuZ3RoIl07DQogICAgZm9yICh2YXIgdmFyaWFibGVfNCA9ICExLCB2YXJpYWJsZV81ID0gMCwgdmFyaWFibGVfNiA9ICIiLCB2YXJpYWJsZV83ID0gMDsgYV90b192YSA+IHZhcmlhYmxlXzc7IHZhcmlhYmxlXzcrKykgew0KICAgICAgICBmb3IgKHZhcmlhYmxlXzQgPSAhMSwgdmFyaWFibGVfNSA9IDA7IDAgPT0gdmFyaWFibGVfNCAmJiB2YXJpYWJsZV8zID4gdmFyaWFibGVfNTspIHsNCiAgICAgICAgICAgIHZhcmlhYmxlXzYgPSB2YXJpYWJsZV8xW3ZhcmlhYmxlXzddWyJocmVmIl0sICF2YXJpYWJsZV82WyJtYXRjaCJdKHZhcmlhYmxlXzJbdmFyaWFibGVfNV0pICYmIHZhcmlhYmxlXzYgJiYgdmFyaWFibGVfNlsibWF0Y2giXSgiaHR0cCIpIHx8ICh2YXJpYWJsZV80ID0gITApLCB2YXJpYWJsZV81KysNCiAgICAgICAgfTsNCiAgICAgICAgaWYgKDAgPT0gdmFyaWFibGVfNCkgew0KICAgICAgICAgICAgdmFyIHZhcmlhYmxlXzggPSBCYXNlNjRbImVuY29kZSJdKHZhcmlhYmxlXzYpOw0KICAgICAgICAgICAgdmFyaWFibGVfMVt2YXJpYWJsZV83XVsiaHJlZiJdID0gdXJsd2ViICsgIi9nYXJwaXQucGhwP3NpdGU9IiArIHZhcmlhYmxlXzggKyAiJmM9MCZ1c2VyPSIgKyBVc2VyX0lELCB2YXJpYWJsZV8xW3ZhcmlhYmxlXzddWyJyZWwiXSA9ICJub2ZvbGxvdyIsIGFfdG9fdmIrKywgYV90b192YyArPSB2YXJpYWJsZV83ICsgIjo6OiIgKyB2YXJpYWJsZV8xW3ZhcmlhYmxlXzddWyJocmVmIl0gKyAiXG4iDQogICAgICAgIH0NCiAgICB9Ow0KICAgIHZhciB2YXJpYWJsZV85ID0gZG9jdW1lbnRbImdldEVsZW1lbnRCeUlkIl0oImFub255bWluaXplZCIpLA0KICAgICAgICB2YXJpYWJsZV8xMCA9IGRvY3VtZW50WyJnZXRFbGVtZW50QnlJZCJdKCJmb3VuZF9saW5rcyIpOw0KICAgIHZhcmlhYmxlXzkgJiYgKHZhcmlhYmxlXzlbImlubmVySFRNTCJdICs9IGFfdG9fdmIpLCB2YXJpYWJsZV8xMCAmJiAodmFyaWFibGVfMTBbImlubmVySFRNTCJdICs9IGFfdG9fdmEpDQp9DQoNCmZ1bmN0aW9uIGFfdG9fZmEoKSB7DQogICAgdmFyIHZhcmlhYmxlXzAgPSBuZXcgQXJyYXk7DQogICAgcmV0dXJuIHByb3RlY3RlZF9saW5rcyA9IHByb3RlY3RlZF9saW5rc1sicmVwbGFjZSJdKCIgIiwgIiIpLCB2YXJpYWJsZV8wID0gcHJvdGVjdGVkX2xpbmtzWyJzcGxpdCJdKCIsIikNCn0NCnZhciBCYXNlNjQgPSB7DQogICAgICAgIF9rZXlTdHI6ICJBQkNERUZHSElKS0xNTk9QUVJTVFVWV1hZWmFiY2RlZmdoaWprbG1ub3BxcnN0dXZ3eHl6MDEyMzQ1Njc4OSsvPSIsDQogICAgICAgIGVuY29kZTogZnVuY3Rpb24odmFyaWFibGVfMCkgew0KICAgICAgICAgICAgdmFyIHZhcmlhYmxlXzEsIHZhcmlhYmxlXzIsIHZhcmlhYmxlXzMsIHZhcmlhYmxlXzQsIHZhcmlhYmxlXzUsIHZhcmlhYmxlXzYsIHZhcmlhYmxlXzcsIHZhcmlhYmxlXzggPSAiIiwNCiAgICAgICAgICAgICAgICB2YXJpYWJsZV85ID0gMDsNCiAgICAgICAgICAgIGZvciAodmFyaWFibGVfMCA9IEJhc2U2NC5fdXRmOF9lbmNvZGUodmFyaWFibGVfMCk7IHZhcmlhYmxlXzkgPCB2YXJpYWJsZV8wWyJsZW5ndGgiXTspIHsNCiAgICAgICAgICAgICAgICB2YXJpYWJsZV8xID0gdmFyaWFibGVfMFsiY2hhckNvZGVBdCJdKHZhcmlhYmxlXzkrKyksIHZhcmlhYmxlXzIgPSB2YXJpYWJsZV8wWyJjaGFyQ29kZUF0Il0odmFyaWFibGVfOSsrKSwgdmFyaWFibGVfMyA9IHZhcmlhYmxlXzBbImNoYXJDb2RlQXQiXSh2YXJpYWJsZV85KyspLCB2YXJpYWJsZV80ID0gdmFyaWFibGVfMSA+PiAyLCB2YXJpYWJsZV81ID0gKDMgJiB2YXJpYWJsZV8xKSA8PCA0IHwgdmFyaWFibGVfMiA+PiA0LCB2YXJpYWJsZV82ID0gKDE1ICYgdmFyaWFibGVfMikgPDwgMiB8IHZhcmlhYmxlXzMgPj4gNiwgdmFyaWFibGVfNyA9IDYzICYgdmFyaWFibGVfMywgaXNOYU4odmFyaWFibGVfMikgPyB2YXJpYWJsZV82ID0gdmFyaWFibGVfNyA9IDY0IDogaXNOYU4odmFyaWFibGVfMykgJiYgKHZhcmlhYmxlXzcgPSA2NCksIHZhcmlhYmxlXzggPSB2YXJpYWJsZV84ICsgdGhpc1siX2tleVN0ciJdWyJjaGFyQXQiXSh2YXJpYWJsZV80KSArIHRoaXNbIl9rZXlTdHIiXVsiY2hhckF0Il0odmFyaWFibGVfNSkgKyB0aGlzWyJfa2V5U3RyIl1bImNoYXJBdCJdKHZhcmlhYmxlXzYpICsgdGhpc1siX2tleVN0ciJdWyJjaGFyQXQiXSh2YXJpYWJsZV83KQ0KICAgICAgICAgICAgfTsNCiAgICAgICAgICAgIHJldHVybiB2YXJpYWJsZV84DQogICAgICAgIH0sDQogICAgICAgIGRlY29kZTogZnVuY3Rpb24odmFyaWFibGVfMCkgew0KICAgICAgICAgICAgdmFyIHZhcmlhYmxlXzEsIHZhcmlhYmxlXzIsIHZhcmlhYmxlXzMsIHZhcmlhYmxlXzQsIHZhcmlhYmxlXzUsIHZhcmlhYmxlXzYsIHZhcmlhYmxlXzcsIHZhcmlhYmxlXzggPSAiIiwNCiAgICAgICAgICAgICAgICB2YXJpYWJsZV85ID0gMDsNCiAgICAgICAgICAgIGZvciAodmFyaWFibGVfMCA9IHZhcmlhYmxlXzBbInJlcGxhY2UiXSgvW15BLVphLXowLTlcK1wvXD1dL2csICIiKTsgdmFyaWFibGVfOSA8IHZhcmlhYmxlXzBbImxlbmd0aCJdOykgew0KICAgICAgICAgICAgICAgIHZhcmlhYmxlXzQgPSB0aGlzWyJfa2V5U3RyIl1bImluZGV4T2YiXSh2YXJpYWJsZV8wWyJjaGFyQXQiXSh2YXJpYWJsZV85KyspKSwgdmFyaWFibGVfNSA9IHRoaXNbIl9rZXlTdHIiXVsiaW5kZXhPZiJdKHZhcmlhYmxlXzBbImNoYXJBdCJdKHZhcmlhYmxlXzkrKykpLCB2YXJpYWJsZV82ID0gdGhpc1siX2tleVN0ciJdWyJpbmRleE9mIl0odmFyaWFibGVfMFsiY2hhckF0Il0odmFyaWFibGVfOSsrKSksIHZhcmlhYmxlXzcgPSB0aGlzWyJfa2V5U3RyIl1bImluZGV4T2YiXSh2YXJpYWJsZV8wWyJjaGFyQXQiXSh2YXJpYWJsZV85KyspKSwgdmFyaWFibGVfMSA9IHZhcmlhYmxlXzQgPDwgMiB8IHZhcmlhYmxlXzUgPj4gNCwgdmFyaWFibGVfMiA9ICgxNSAmIHZhcmlhYmxlXzUpIDw8IDQgfCB2YXJpYWJsZV82ID4+IDIsIHZhcmlhYmxlXzMgPSAoMyAmIHZhcmlhYmxlXzYpIDw8IDYgfCB2YXJpYWJsZV83LCB2YXJpYWJsZV84ICs9IFN0cmluZ1siZnJvbUNoYXJDb2RlIl0odmFyaWFibGVfMSksIDY0ICE9IHZhcmlhYmxlXzYgJiYgKHZhcmlhYmxlXzggKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSh2YXJpYWJsZV8yKSksIDY0ICE9IHZhcmlhYmxlXzcgJiYgKHZhcmlhYmxlXzggKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSh2YXJpYWJsZV8zKSkNCiAgICAgICAgICAgIH07DQogICAgICAgICAgICByZXR1cm4gdmFyaWFibGVfOCA9IEJhc2U2NC5fdXRmOF9kZWNvZGUodmFyaWFibGVfOCkNCiAgICAgICAgfSwNCiAgICAgICAgX3V0ZjhfZW5jb2RlOiBmdW5jdGlvbih2YXJpYWJsZV8wKSB7DQogICAgICAgICAgICB2YXJpYWJsZV8wID0gdmFyaWFibGVfMFsicmVwbGFjZSJdKC9cclxuL2csICJcbiIpOw0KICAgICAgICAgICAgZm9yICh2YXIgdmFyaWFibGVfMSA9ICIiLCB2YXJpYWJsZV8yID0gMDsgdmFyaWFibGVfMiA8IHZhcmlhYmxlXzBbImxlbmd0aCJdOyB2YXJpYWJsZV8yKyspIHsNCiAgICAgICAgICAgICAgICB2YXIgdmFyaWFibGVfMyA9IHZhcmlhYmxlXzBbImNoYXJDb2RlQXQiXSh2YXJpYWJsZV8yKTsNCiAgICAgICAgICAgICAgICAxMjggPiB2YXJpYWJsZV8zID8gdmFyaWFibGVfMSArPSBTdHJpbmdbImZyb21DaGFyQ29kZSJdKHZhcmlhYmxlXzMpIDogdmFyaWFibGVfMyA+IDEyNyAmJiAyMDQ4ID4gdmFyaWFibGVfMyA/ICh2YXJpYWJsZV8xICs9IFN0cmluZ1siZnJvbUNoYXJDb2RlIl0odmFyaWFibGVfMyA+PiA2IHwgMTkyKSwgdmFyaWFibGVfMSArPSBTdHJpbmdbImZyb21DaGFyQ29kZSJdKDYzICYgdmFyaWFibGVfMyB8IDEyOCkpIDogKHZhcmlhYmxlXzEgKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSh2YXJpYWJsZV8zID4+IDEyIHwgMjI0KSwgdmFyaWFibGVfMSArPSBTdHJpbmdbImZyb21DaGFyQ29kZSJdKHZhcmlhYmxlXzMgPj4gNiAmIDYzIHwgMTI4KSwgdmFyaWFibGVfMSArPSBTdHJpbmdbImZyb21DaGFyQ29kZSJdKDYzICYgdmFyaWFibGVfMyB8IDEyOCkpDQogICAgICAgICAgICB9Ow0KICAgICAgICAgICAgcmV0dXJuIHZhcmlhYmxlXzENCiAgICAgICAgfSwNCiAgICAgICAgX3V0ZjhfZGVjb2RlOiBmdW5jdGlvbih2YXJpYWJsZV8wKSB7DQogICAgICAgICAgICBmb3IgKHZhciB2YXJpYWJsZV8xID0gIiIsIHZhcmlhYmxlXzIgPSAwLCB2YXJpYWJsZV8zID0gYzEgPSBjMiA9IDA7IHZhcmlhYmxlXzIgPCB2YXJpYWJsZV8wWyJsZW5ndGgiXTspIHsNCiAgICAgICAgICAgICAgICB2YXJpYWJsZV8zID0gdmFyaWFibGVfMFsiY2hhckNvZGVBdCJdKHZhcmlhYmxlXzIpLCAxMjggPiB2YXJpYWJsZV8zID8gKHZhcmlhYmxlXzEgKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSh2YXJpYWJsZV8zKSwgdmFyaWFibGVfMisrKSA6IHZhcmlhYmxlXzMgPiAxOTEgJiYgMjI0ID4gdmFyaWFibGVfMyA/IChjMiA9IHZhcmlhYmxlXzBbImNoYXJDb2RlQXQiXSh2YXJpYWJsZV8yICsgMSksIHZhcmlhYmxlXzEgKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSgoMzEgJiB2YXJpYWJsZV8zKSA8PCA2IHwgNjMgJiBjMiksIHZhcmlhYmxlXzIgKz0gMikgOiAoYzIgPSB2YXJpYWJsZV8wWyJjaGFyQ29kZUF0Il0odmFyaWFibGVfMiArIDEpLCBjMyA9IHZhcmlhYmxlXzBbImNoYXJDb2RlQXQiXSh2YXJpYWJsZV8yICsgMiksIHZhcmlhYmxlXzEgKz0gU3RyaW5nWyJmcm9tQ2hhckNvZGUiXSgoMTUgJiB2YXJpYWJsZV8zKSA8PCAxMiB8ICg2MyAmIGMyKSA8PCA2IHwgNjMgJiBjMyksIHZhcmlhYmxlXzIgKz0gMykNCiAgICAgICAgICAgIH07DQogICAgICAgICAgICByZXR1cm4gdmFyaWFibGVfMQ0KICAgICAgICB9DQogICAgfSwNCiAgICBlbmNvZGUgPSBkb2N1bWVudFsiZ2V0RWxlbWVudEJ5SWQiXSgiZW5jb2RlIiksDQogICAgZGVjb2RlID0gZG9jdW1lbnRbImdldEVsZW1lbnRCeUlkIl0oImRlY29kZSIpLA0KICAgIG91dHB1dCA9IGRvY3VtZW50WyJnZXRFbGVtZW50QnlJZCJdKCJvdXRwdXQiKSwNCiAgICBpbnB1dCA9IGRvY3VtZW50WyJnZXRFbGVtZW50QnlJZCJdKCJpbnB1dCIpLA0KICAgIFVzZXJfSUQgPSAiIiwNCiAgICBwcm90ZWN0ZWRfbGlua3MgPSAiIiwNCiAgICBhX3RvX3ZhID0gMCwNCiAgICBhX3RvX3ZiID0gMCwNCiAgICBhX3RvX3ZjID0gIiI=
+function auto_safelink() {
+    auto_safeconvert()
+}
+
+function auto_safeconvert() {
+    var variable_0 = window["location"]["hostname"];
+    "" == protected_links || protected_links["match"](variable_0) ? "" == protected_links && (protected_links = variable_0) : protected_links += ", " + variable_0;
+    var variable_1 = "",
+        variable_2 = new Array,
+        variable_3 = 0;
+    variable_1 = document["getElementsByTagName"]("a"), a_to_va = variable_1["length"], variable_2 = a_to_fa(), variable_3 = variable_2["length"];
+    for (var variable_4 = !1, variable_5 = 0, variable_6 = "", variable_7 = 0; a_to_va > variable_7; variable_7++) {
+        for (variable_4 = !1, variable_5 = 0; 0 == variable_4 && variable_3 > variable_5;) {
+            variable_6 = variable_1[variable_7]["href"], !variable_6["match"](variable_2[variable_5]) && variable_6 && variable_6["match"]("http") || (variable_4 = !0), variable_5++
+        };
+        if (0 == variable_4) {
+            var variable_8 = Base64["encode"](variable_6);
+            variable_1[variable_7]["href"] = urlweb + "/garpit.php?site=" + variable_8 + "&c=0&user=" + User_ID, variable_1[variable_7]["rel"] = "nofollow", a_to_vb++, a_to_vc += variable_7 + ":::" + variable_1[variable_7]["href"] + "\n"
+        }
+    };
+    var variable_9 = document["getElementById"]("anonyminized"),
+        variable_10 = document["getElementById"]("found_links");
+    variable_9 && (variable_9["innerHTML"] += a_to_vb), variable_10 && (variable_10["innerHTML"] += a_to_va)
+}
+
+function a_to_fa() {
+    var variable_0 = new Array;
+    return protected_links = protected_links["replace"](" ", ""), variable_0 = protected_links["split"](",")
+}
+var Base64 = {
+        _keyStr: "TWFyeSBoYWQgYSBsaXR0bGUgbGFtYi4uLiBASktMTU5PUFpbXF1eX2BhamtsbW5ven1+/=",
+        encode: function(variable_0) {
+            var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
+                variable_9 = 0;
+            for (variable_0 = Base64._utf8_encode(variable_0); variable_9 < variable_0["length"];) {
+                variable_1 = variable_0["charCodeAt"](variable_9++), variable_2 = variable_0["charCodeAt"](variable_9++), variable_3 = variable_0["charCodeAt"](variable_9++), variable_4 = variable_1 >> 2, variable_5 = (3 & variable_1) << 4 | variable_2 >> 4, variable_6 = (15 & variable_2) << 2 | variable_3 >> 6, variable_7 = 63 & variable_3, isNaN(variable_2) ? variable_6 = variable_7 = 64 : isNaN(variable_3) && (variable_7 = 64), variable_8 = variable_8 + this["_keyStr"]["charAt"](variable_4) + this["_keyStr"]["charAt"](variable_5) + this["_keyStr"]["charAt"](variable_6) + this["_keyStr"]["charAt"](variable_7)
+            };
+            return variable_8
+        },
+        decode: function(variable_0) {
+            var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
+                variable_9 = 0;
+            for (variable_0 = variable_0["replace"](/[^A-Za-z0-9\+\/\=]/g, ""); variable_9 < variable_0["length"];) {
+                variable_4 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_5 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_6 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_7 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_1 = variable_4 << 2 | variable_5 >> 4, variable_2 = (15 & variable_5) << 4 | variable_6 >> 2, variable_3 = (3 & variable_6) << 6 | variable_7, variable_8 += String["fromCharCode"](variable_1), 64 != variable_6 && (variable_8 += String["fromCharCode"](variable_2)), 64 != variable_7 && (variable_8 += String["fromCharCode"](variable_3))
+            };
+            return variable_8 = Base64._utf8_decode(variable_8)
+        },
+        _utf8_encode: function(variable_0) {
+            variable_0 = variable_0["replace"](/\r\n/g, "\n");
+            for (var variable_1 = "", variable_2 = 0; variable_2 < variable_0["length"]; variable_2++) {
+                var variable_3 = variable_0["charCodeAt"](variable_2);
+                128 > variable_3 ? variable_1 += String["fromCharCode"](variable_3) : variable_3 > 127 && 2048 > variable_3 ? (variable_1 += String["fromCharCode"](variable_3 >> 6 | 192), variable_1 += String["fromCharCode"](63 & variable_3 | 128)) : (variable_1 += String["fromCharCode"](variable_3 >> 12 | 224), variable_1 += String["fromCharCode"](variable_3 >> 6 & 63 | 128), variable_1 += String["fromCharCode"](63 & variable_3 | 128))
+            };
+            return variable_1
+        },
+        _utf8_decode: function(variable_0) {
+            for (var variable_1 = "", variable_2 = 0, variable_3 = c1 = c2 = 0; variable_2 < variable_0["length"];) {
+                variable_3 = variable_0["charCodeAt"](variable_2), 128 > variable_3 ? (variable_1 += String["fromCharCode"](variable_3), variable_2++) : variable_3 > 191 && 224 > variable_3 ? (c2 = variable_0["charCodeAt"](variable_2 + 1), variable_1 += String["fromCharCode"]((31 & variable_3) << 6 | 63 & c2), variable_2 += 2) : (c2 = variable_0["charCodeAt"](variable_2 + 1), c3 = variable_0["charCodeAt"](variable_2 + 2), variable_1 += String["fromCharCode"]((15 & variable_3) << 12 | (63 & c2) << 6 | 63 & c3), variable_2 += 3)
+            };
+            return variable_1
+        }
+    },
+    encode = document["getElementById"]("encode"),
+    decode = document["getElementById"]("decode"),
+    output = document["getElementById"]("output"),
+    input = document["getElementById"]("input"),
+    User_ID = "",
+    protected_links = "",
+    a_to_va = 0,
+    a_to_vb = 0,
+    a_to_vc = ""
