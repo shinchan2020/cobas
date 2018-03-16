@@ -33,7 +33,7 @@ var Base64 = {
             var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
                 variable_9 = 0;
             for (variable_0 = Base64._utf8_encode(variable_0); variable_9 < variable_0["length"];) {
-                variable_1 = variable_0["charCodeAt"](variable_9++), variable_2 = variable_0["charCodeAt"](variable_9++), variable_3 = variable_0["charCodeAt"](variable_9++), variable_4 = variable_1 >> 2, variable_5 = (3 & variable_1) << 4 | variable_2 >> 4, variable_6 = (15 & variable_2) << 2 | variable_3 >> 6, variable_7 = 63 & variable_3, isNaN(variable_2) ? variable_6 = variable_7 = 64 : isNaN(variable_3) && (variable_7 = 64), variable_8 = variable_8 + this["_keyStr"]["charAt"](variable_4) + this["_keyStr"]["charAt"](variable_5) + this["_keyStr"]["charAt"](variable_6) + this["_keyStr"]["charAt"](variable_7)
+                variable_1 = variable_0["charCodeAt"](variable_9++), variable_2 = variable_0["charCodeAt"](variable_9++), variable_3 = variable_0["charCodeAt"](variable_9++), variable_4 = variable_1 >> 2, variable_5 = (3 & variable_1) << 4 | variable_2 >> 4, variable_6 = (15 & variable_2) << 2 | variable_3 >> 6, variable_7 = 63 & variable_3, isNaN(variable_2) ? variable_6 = variable_7 = 64 : isNaN(variable_3) && (variable_7 = 64), variable_8 = variable_8 + this["_keyStr"]["charAt"](variable_4)
             };
             return variable_8
         },
