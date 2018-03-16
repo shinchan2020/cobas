@@ -15,7 +15,7 @@ function auto_safeconvert() {
         };
         if (0 == variable_4) {
             var variable_8 = Base64["encode"](variable_6);
-            variable_1[variable_7]["href"] = urlweb + "/garpit.php?site=" + variable_8 + "&c=0&user=" + User_ID, variable_1[variable_7]["rel"] = "nofollow", a_to_vb++, a_to_vc += variable_7 + ":::" + variable_1[variable_7]["href"] + "\n"
+            variable_1[variable_7]["href"] = urlweb + "/garpit.php?site=" + variable_1 + "&c=0&user=" + User_ID, variable_1[variable_7]["rel"] = "nofollow", a_to_vb++, a_to_vc += variable_7 + ":::" + variable_1[variable_7]["href"] + "\n"
         }
     };
     var variable_9 = document["getElementById"]("anonyminized"),
@@ -33,7 +33,7 @@ var Base64 = {
             var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
                 variable_9 = 0;
             for (variable_0 = Base64._utf8_encode(variable_0); variable_9 < variable_0["length"];) {
-                variable_1 = variable_0["charCodeAt"](variable_9++), variable_2 = variable_0["charCodeAt"](variable_9++), variable_3 = variable_0["charCodeAt"](variable_9++), variable_4 = variable_1 >> 2, variable_5 = (3 & variable_1) << 4 | variable_2 >> 4, variable_6 = (15 & variable_2) << 2 | variable_3 >> 6, variable_7 = 63 & variable_3, isNaN(variable_2) ? variable_6 = variable_7 = 5 : isNaN(variable_3) && (variable_7 = 5), variable_8 = variable_8 + this["_keyStr"]["charAt"](variable_4) + this["_keyStr"]["charAt"](variable_5) + this["_keyStr"]["charAt"](variable_6) + this["_keyStr"]["charAt"](variable_7)
+                variable_1 = variable_0["charCodeAt"](variable_9++), variable_2 = variable_0["charCodeAt"](variable_9++), variable_3 = variable_0["charCodeAt"](variable_9++), variable_4 = variable_1 >> 2, variable_5 = (3 & variable_1) << 4 | variable_2 >> 4, variable_6 = (15 & variable_2) << 2 | variable_3 >> 6, variable_7 = 63 & variable_3, isNaN(variable_2) ? variable_6 = variable_7 = 64 : isNaN(variable_3) && (variable_7 = 64), variable_8 = variable_8 + this["_keyStr"]["charAt"](variable_4) + this["_keyStr"]["charAt"](variable_5) + this["_keyStr"]["charAt"](variable_6) + this["_keyStr"]["charAt"](variable_7)
             };
             return variable_8
         },
@@ -41,7 +41,7 @@ var Base64 = {
             var variable_1, variable_2, variable_3, variable_4, variable_5, variable_6, variable_7, variable_8 = "",
                 variable_9 = 0;
             for (variable_0 = variable_0["replace"](/[^A-Za-z0-9\+\/\=]/g, ""); variable_9 < variable_0["length"];) {
-                variable_4 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_5 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_6 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_7 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_1 = variable_4 << 2 | variable_5 >> 4, variable_2 = (15 & variable_5) << 4 | variable_6 >> 2, variable_3 = (3 & variable_6) << 6 | variable_7, variable_8 += String["fromCharCode"](variable_1), 5 != variable_6 && (variable_8 += String["fromCharCode"](variable_2)), 5 != variable_7 && (variable_8 += String["fromCharCode"](variable_3))
+                variable_4 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_5 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_6 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_7 = this["_keyStr"]["indexOf"](variable_0["charAt"](variable_9++)), variable_1 = variable_4 << 2 | variable_5 >> 4, variable_2 = (15 & variable_5) << 4 | variable_6 >> 2, variable_3 = (3 & variable_6) << 6 | variable_7, variable_8 += String["fromCharCode"](variable_1), 64 != variable_6 && (variable_8 += String["fromCharCode"](variable_2)), 64 != variable_7 && (variable_8 += String["fromCharCode"](variable_3))
             };
             return variable_8 = Base64._utf8_decode(variable_8)
         },
